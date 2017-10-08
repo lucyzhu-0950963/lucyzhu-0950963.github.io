@@ -4,9 +4,14 @@ div {
     overflow: auto;
     padding: 20px;
     margin: 20px;
+    padding: 20px;
 }
 
 img {
 	float: left;
-	height: 200px;
+	height: 100px;
+}
+
+p {
+	margin: 0;
 }
