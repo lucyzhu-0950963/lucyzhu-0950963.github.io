@@ -1,10 +1,10 @@
 div {
-    border: 8px inset white;
-    border-radius: 25px;
-    overflow: auto;
-    padding: 20px;
-    margin: 20px;
-    padding: 20px;
+	border: 8px inset white;
+	border-radius: 25px;
+	overflow: auto;
+	padding: 20px;
+	margin: 20px;
+	padding: 20px;
 }
 
 img {
