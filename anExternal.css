@@ -1,0 +1,10 @@
+div {
+    clear: left;
+    border: 2px inset white;
+    border-radius: 5px;
+}
+
+img {
+	float: right;
+	margin: 0 0 10px 10px;
+}
